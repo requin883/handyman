@@ -16,3 +16,22 @@ export const serviceCardInfo = [
     img: "imagelink"
   }
 ]
+
+export const featuredServiceCardInfo = [
+  {
+    title: "Plumbing",
+    description: "lorem ipsum"
+  },
+  {
+    title: "Painting",
+    description: "asdasdas asd asdas dasd asd"
+  },
+  {
+    title: "Carpentry",
+    description: "imagel asd as dasd asd asd asda sdink"
+  },
+  {
+    title: "Renovation",
+    description: "imagelink"
+  }
+]
