@@ -1,4 +1,5 @@
 import './App.css'
+import { About } from './components/About'
 import { FeaturedService } from './components/FeaturedService'
 import { Header } from './components/Header'
 import { Hero } from './components/Hero'
@@ -12,6 +13,7 @@ function App() {
       <Hero />
       <ServiceCategories />
       <FeaturedService />
+      <About />
     </>
   )
 }
